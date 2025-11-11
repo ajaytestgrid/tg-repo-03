@@ -1,0 +1,3441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_RevampyourhomeinstyleCushioncoversbedsheet">
+    <element type="id">gw-card-layoutTGWEBCOMMAIdTGWEBCOMMA1</element>
+    <element type="css">div#gw-card-layoutTGWEBCOMMA0</element>
+    <element type="xpath">//div[@id='gw-card-layout']</element>
+    <element type="xpath">//html[1]/body[1]/div[1]/div[1]/div[2]/div[1]</element>
+    <element type="class">a-section a-spacing-none gw-card-layoutTGWEBCOMMA10</element>
+    <element type="tag">divTGWEBCOMMA292</element>
+  </locator>
+  <locator name="ele_SeepersonalizedrecommendationsSigninNewcusto">
+    <element type="css">div#rhf &gt; divTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css">div#rhf &gt; divTGWEBCOMMA0</element>
+    <element type="xpath">//body/div[@id='a-page']/div[@id='rhf']/div[1]</element>
+    <element type="xpath">//html[1]/body[1]/div[1]/div[3]/div[1]</element>
+    <element type="class">rhf-frameTGWEBCOMMA1</element>
+    <element type="tag">divTGWEBCOMMA782</element>
+  </locator>
+  <locator name="ele_Backtotop">
+    <element type="css">a#navBackToTop &gt; div &gt; spanTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css">a#navBackToTop &gt; div &gt; spanTGWEBCOMMA0</element>
+    <element type="xpath">//span[normalize-space()='Back to top']</element>
+    <element type="xpath">//html[1]/body[1]/div[1]/div[4]/a[1]/div[1]/span[1]</element>
+    <element type="class">navFooterBackToTopTextTGWEBCOMMA1</element>
+    <element type="tag">spanTGWEBCOMMA1140</element>
+  </locator>
+  <locator name="ele_twotabsearchtextbox1">
+    <element type="id">twotabsearchtextboxTGWEBCOMMAIdTGWEBCOMMA1</element>
+    <element type="css">input#twotabsearchtextboxTGWEBCOMMA0</element>
+    <element type="xpath">//input[@id='twotabsearchtextbox']</element>
+    <element type="xpath">//html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[2]/div[1]/input[1]</element>
+    <element type="class">nav-input nav-progressive-attributeTGWEBCOMMA1</element>
+    <element type="tag">inputTGWEBCOMMA5</element>
+  </locator>
+  <locator name="ele_navsearchsubmitbutton1">
+    <element type="id">nav-search-submit-buttonTGWEBCOMMAIdTGWEBCOMMA1</element>
+    <element type="css">input#nav-search-submit-buttonTGWEBCOMMA0</element>
+    <element type="xpath">//input[@id='nav-search-submit-button']</element>
+    <element type="xpath">//html[1]/body[1]/div[1]/header[1]/div[1]/div[1]/div[2]/div[1]/form[1]/div[3]/div[1]/span[1]/input[1]</element>
+    <element type="class">nav-input nav-progressive-attributeTGWEBCOMMA2</element>
+    <element type="tag">inputTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_img368">
+    <element type="xpath">//img[@src='/images/Toolsqa.jpg']</element>
+    <element type="css">header &gt; a &gt; img</element>
+    <element type="tag">img</element>
+  </locator>
+  <locator name="ele_googleadsi325">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_interactio209">
+    <element type="xpath">//div[normalize-space()='Interactions']</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(5) &gt; span &gt; div &gt; divTGWEBCOMMA1</element>
+    <element type="tag">div</element>
+    <element type="class">header-textTGWEBCOMMA5</element>
+  </locator>
+  <locator name="ele_slider631">
+    <element type="xpath">//div[4]//div[1]//ul[1]//li[4]</element>
+    <element type="id">item-3TGWEBCOMMA3</element>
+    <element type="css">div.element-list.collapse.show &gt; ul.menu-list &gt; #item-3</element>
+    <element type="tag">li</element>
+    <element type="class">btn btn-light TGWEBCOMMA19</element>
+  </locator>
+  <locator name="ele_accordian211">
+    <element type="xpath">//span[normalize-space()='Accordian']</element>
+    <element type="css">div.element-list.collapse.show &gt; ul.menu-list &gt; #item-0 &gt; span.text</element>
+    <element type="tag">span</element>
+    <element type="class">textTGWEBCOMMA16</element>
+  </locator>
+  <locator name="ele_slider730">
+    <element type="xpath">//div[4]//div[1]//ul[1]//li[4]</element>
+    <element type="id">item-3TGWEBCOMMA3</element>
+    <element type="css">div.element-list.collapse.show &gt; ul.menu-list &gt; #item-3</element>
+    <element type="tag">li</element>
+    <element type="class">btn btn-light TGWEBCOMMA19</element>
+  </locator>
+  <locator name="ele_vargptadsl560">
+    <element type="xpath">//div[@id='fixedban']</element>
+    <element type="id">fixedbanTGWEBCOMMA1</element>
+    <element type="css">#fixedban</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_vargptadsl858">
+    <element type="xpath">//div[@id='fixedban']</element>
+    <element type="id">fixedbanTGWEBCOMMA1</element>
+    <element type="css">#fixedban</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_accordian209">
+    <element type="xpath">//div[4]//div[1]//ul[1]//li[4]</element>
+    <element type="id">item-0TGWEBCOMMA4</element>
+    <element type="css">div.element-list.collapse.show &gt; ul.menu-list &gt; #item-0</element>
+    <element type="tag">li</element>
+    <element type="class">btn btn-light TGWEBCOMMA16</element>
+  </locator>
+  <locator name="ele_autocomple670">
+    <element type="xpath">//div[4]//div[1]//ul[1]//li[4]</element>
+    <element type="id">item-1TGWEBCOMMA3</element>
+    <element type="css">div.element-list.collapse.show &gt; ul.menu-list &gt; #item-1</element>
+    <element type="tag">li</element>
+    <element type="class">btn btn-light TGWEBCOMMA17</element>
+  </locator>
+  <locator name="ele_textbox308">
+    <element type="xpath">//div[4]//div[1]//ul[1]//li[4]</element>
+    <element type="id">item-0TGWEBCOMMA1</element>
+    <element type="css">#item-0</element>
+    <element type="tag">li</element>
+    <element type="class">btn btn-light TGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_fullname140">
+    <element type="xpath">//input[@id='userName']</element>
+    <element type="id">userNameTGWEBCOMMA1</element>
+    <element type="css">#userName</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_fullname818">
+    <element type="xpath">//input[@id='userName']</element>
+    <element type="id">userNameTGWEBCOMMA1</element>
+    <element type="css">#userName</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_fullname830">
+    <element type="xpath">//input[@id='userName']</element>
+    <element type="id">userNameTGWEBCOMMA1</element>
+    <element type="css">#userName</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_fullname446">
+    <element type="xpath">//input[@id='userName']</element>
+    <element type="id">userNameTGWEBCOMMA1</element>
+    <element type="css">#userName</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_submit488">
+    <element type="xpath">//form[@id='userForm']//div[4]</element>
+    <element type="css">div.mt-2.justify-content-end.row</element>
+    <element type="tag">div</element>
+    <element type="class">mt-2 justify-content-end rowTGWEBCOMMA5</element>
+  </locator>
+  <locator name="ele_currentadd495">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_currentadd811">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_currentadd486">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_currentadd257">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_currentadd683">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_currentadd517">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_currentadd307">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_currentadd840">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_currentadd743">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_currentadd061">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_currentadd056">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_currentadd211">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_currentadd998">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_currentadd846">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_currentadd715">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_currentadd308">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_currentadd666">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_currentadd203">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_currentadd263">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_currentadd780">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_googleadsi517">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi830">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_permanenta172">
+    <element type="xpath">//textarea[@id='permanentAddress']</element>
+    <element type="id">permanentAddressTGWEBCOMMA1</element>
+    <element type="css">#permanentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_permanenta438">
+    <element type="xpath">//textarea[@id='permanentAddress']</element>
+    <element type="id">permanentAddressTGWEBCOMMA1</element>
+    <element type="css">#permanentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_permanenta423">
+    <element type="xpath">//textarea[@id='permanentAddress']</element>
+    <element type="id">permanentAddressTGWEBCOMMA1</element>
+    <element type="css">#permanentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_permanenta284">
+    <element type="xpath">//textarea[@id='permanentAddress']</element>
+    <element type="id">permanentAddressTGWEBCOMMA1</element>
+    <element type="css">#permanentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_permanenta256">
+    <element type="xpath">//textarea[@id='permanentAddress']</element>
+    <element type="id">permanentAddressTGWEBCOMMA1</element>
+    <element type="css">#permanentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_permanenta669">
+    <element type="xpath">//textarea[@id='permanentAddress']</element>
+    <element type="id">permanentAddressTGWEBCOMMA1</element>
+    <element type="css">#permanentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_permanenta434">
+    <element type="xpath">//textarea[@id='permanentAddress']</element>
+    <element type="id">permanentAddressTGWEBCOMMA1</element>
+    <element type="css">#permanentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_permanenta070">
+    <element type="xpath">//textarea[@id='permanentAddress']</element>
+    <element type="id">permanentAddressTGWEBCOMMA1</element>
+    <element type="css">#permanentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_permanenta414">
+    <element type="xpath">//textarea[@id='permanentAddress']</element>
+    <element type="id">permanentAddressTGWEBCOMMA1</element>
+    <element type="css">#permanentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_permanenta487">
+    <element type="xpath">//textarea[@id='permanentAddress']</element>
+    <element type="id">permanentAddressTGWEBCOMMA1</element>
+    <element type="css">#permanentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_permanenta036">
+    <element type="xpath">//textarea[@id='permanentAddress']</element>
+    <element type="id">permanentAddressTGWEBCOMMA1</element>
+    <element type="css">#permanentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_permanenta194">
+    <element type="xpath">//textarea[@id='permanentAddress']</element>
+    <element type="id">permanentAddressTGWEBCOMMA1</element>
+    <element type="css">#permanentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_permanenta224">
+    <element type="xpath">//textarea[@id='permanentAddress']</element>
+    <element type="id">permanentAddressTGWEBCOMMA1</element>
+    <element type="css">#permanentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_permanenta641">
+    <element type="xpath">//textarea[@id='permanentAddress']</element>
+    <element type="id">permanentAddressTGWEBCOMMA1</element>
+    <element type="css">#permanentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_permanenta201">
+    <element type="xpath">//textarea[@id='permanentAddress']</element>
+    <element type="id">permanentAddressTGWEBCOMMA1</element>
+    <element type="css">#permanentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_permanenta679">
+    <element type="xpath">//textarea[@id='permanentAddress']</element>
+    <element type="id">permanentAddressTGWEBCOMMA1</element>
+    <element type="css">#permanentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_permanenta489">
+    <element type="xpath">//textarea[@id='permanentAddress']</element>
+    <element type="id">permanentAddressTGWEBCOMMA1</element>
+    <element type="css">#permanentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_permanenta629">
+    <element type="xpath">//textarea[@id='permanentAddress']</element>
+    <element type="id">permanentAddressTGWEBCOMMA1</element>
+    <element type="css">#permanentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_permanenta533">
+    <element type="xpath">//textarea[@id='permanentAddress']</element>
+    <element type="id">permanentAddressTGWEBCOMMA1</element>
+    <element type="css">#permanentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_permanenta494">
+    <element type="xpath">//textarea[@id='permanentAddress']</element>
+    <element type="id">permanentAddressTGWEBCOMMA1</element>
+    <element type="css">#permanentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_permanenta990">
+    <element type="xpath">//textarea[@id='permanentAddress']</element>
+    <element type="id">permanentAddressTGWEBCOMMA1</element>
+    <element type="css">#permanentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_permanenta519">
+    <element type="xpath">//textarea[@id='permanentAddress']</element>
+    <element type="id">permanentAddressTGWEBCOMMA1</element>
+    <element type="css">#permanentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_textboxful776">
+    <element type="xpath">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-12 mt-4 col-md-6TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_checkbox579">
+    <element type="xpath">//div[4]//div[1]//ul[1]//li[4]</element>
+    <element type="id">item-1TGWEBCOMMA1</element>
+    <element type="css">#item-1</element>
+    <element type="tag">li</element>
+    <element type="class">btn btn-light TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_currentcol030">
+    <element type="xpath">div#tree-node &gt; ol &gt; li &gt; span &gt; label &gt; span &gt; svgTGWEBCOMMA1</element>
+    <element type="css">div#tree-node &gt; ol &gt; li &gt; span &gt; label &gt; span &gt; svgTGWEBCOMMA1</element>
+    <element type="tag">svg</element>
+  </locator>
+  <locator name="ele_currentcol801">
+    <element type="xpath">//button[@title='Expand all']//*[@stroke='currentColor']</element>
+    <element type="css">svg.rct-icon.rct-icon-expand-all</element>
+    <element type="tag">svg</element>
+  </locator>
+  <locator name="ele_span618">
+    <element type="xpath">div#tree-node &gt; ol &gt; li &gt; ol &gt; li:nth-of-type(2) &gt; span &gt; label &gt; spanTGWEBCOMMA2</element>
+    <element type="css">div#tree-node &gt; ol &gt; li &gt; ol &gt; li:nth-of-type(2) &gt; span &gt; label &gt; spanTGWEBCOMMA2</element>
+    <element type="tag">span</element>
+    <element type="class">rct-checkboxTGWEBCOMMA5</element>
+  </locator>
+  <locator name="ele_span377">
+    <element type="xpath">div#tree-node &gt; ol &gt; li &gt; ol &gt; li:nth-of-type(2) &gt; ol &gt; li &gt; ol &gt; li:nth-of-type(2) &gt; span &gt; spanTGWEBCOMMA1</element>
+    <element type="css">div#tree-node &gt; ol &gt; li &gt; ol &gt; li:nth-of-type(2) &gt; ol &gt; li &gt; ol &gt; li:nth-of-type(2) &gt; span &gt; spanTGWEBCOMMA1</element>
+    <element type="tag">span</element>
+    <element type="class">rct-collapseTGWEBCOMMA8</element>
+  </locator>
+  <locator name="ele_office835">
+    <element type="xpath">//label[@for='tree-node-office']</element>
+    <element type="css">div#tree-node &gt; ol &gt; li &gt; ol &gt; li:nth-of-type(2) &gt; ol &gt; li:nth-of-type(2) &gt; span &gt; labelTGWEBCOMMA0</element>
+    <element type="tag">label</element>
+  </locator>
+  <locator name="ele_classified314">
+    <element type="xpath">div#tree-node &gt; ol &gt; li &gt; ol &gt; li:nth-of-type(2) &gt; ol &gt; li:nth-of-type(2) &gt; ol &gt; li:nth-of-type(3) &gt; spanTGWEBCOMMA0</element>
+    <element type="css">div#tree-node &gt; ol &gt; li &gt; ol &gt; li:nth-of-type(2) &gt; ol &gt; li:nth-of-type(2) &gt; ol &gt; li:nth-of-type(3) &gt; spanTGWEBCOMMA0</element>
+    <element type="tag">span</element>
+    <element type="class">rct-textTGWEBCOMMA13</element>
+  </locator>
+  <locator name="ele_googleadsi110">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_checkboxho079">
+    <element type="xpath">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-12 mt-4 col-md-6TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_checkboxho097">
+    <element type="xpath">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-12 mt-4 col-md-6TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_checkboxho559">
+    <element type="xpath">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-12 mt-4 col-md-6TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_checkboxho462">
+    <element type="xpath">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-12 mt-4 col-md-6TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_checkboxho070">
+    <element type="xpath">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-12 mt-4 col-md-6TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_span487">
+    <element type="xpath">div#tree-node &gt; ol &gt; li &gt; ol &gt; li:nth-of-type(2) &gt; ol &gt; li:nth-of-type(2) &gt; ol &gt; li:nth-of-type(3) &gt; span &gt; label &gt; spanTGWEBCOMMA2</element>
+    <element type="css">div#tree-node &gt; ol &gt; li &gt; ol &gt; li:nth-of-type(2) &gt; ol &gt; li:nth-of-type(2) &gt; ol &gt; li:nth-of-type(3) &gt; span &gt; label &gt; spanTGWEBCOMMA2</element>
+    <element type="tag">span</element>
+    <element type="class">rct-checkboxTGWEBCOMMA13</element>
+  </locator>
+  <locator name="ele_span342">
+    <element type="xpath">div#tree-node &gt; ol &gt; li &gt; ol &gt; li:nth-of-type(2) &gt; ol &gt; li:nth-of-type(2) &gt; ol &gt; li:nth-of-type(3) &gt; span &gt; label &gt; spanTGWEBCOMMA2</element>
+    <element type="css">div#tree-node &gt; ol &gt; li &gt; ol &gt; li:nth-of-type(2) &gt; ol &gt; li:nth-of-type(2) &gt; ol &gt; li:nth-of-type(3) &gt; span &gt; label &gt; spanTGWEBCOMMA2</element>
+    <element type="tag">span</element>
+    <element type="class">rct-checkboxTGWEBCOMMA13</element>
+  </locator>
+  <locator name="ele_path088">
+    <element type="xpath">div#tree-node &gt; ol &gt; li &gt; span &gt; label &gt; span &gt; svg &gt; pathTGWEBCOMMA1</element>
+    <element type="css">div#tree-node &gt; ol &gt; li &gt; span &gt; label &gt; span &gt; svg &gt; pathTGWEBCOMMA1</element>
+    <element type="tag">path</element>
+  </locator>
+  <locator name="ele_desktop555">
+    <element type="xpath">div#tree-node &gt; ol &gt; li &gt; ol &gt; li &gt; spanTGWEBCOMMA2</element>
+    <element type="css">div#tree-node &gt; ol &gt; li &gt; ol &gt; li &gt; spanTGWEBCOMMA2</element>
+    <element type="tag">span</element>
+    <element type="class">rct-textTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_impressive830">
+    <element type="xpath">//label[@for='impressiveRadio']</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div:nth-of-type(3) &gt; labelTGWEBCOMMA0</element>
+    <element type="tag">label</element>
+    <element type="class">custom-control-labelTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_yes150">
+    <element type="xpath">//label[@for='yesRadio']</element>
+    <element type="css">label.custom-control-label</element>
+    <element type="tag">label</element>
+    <element type="class">custom-control-labelTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_webtables820">
+    <element type="xpath">//span[normalize-space()='Web Tables']</element>
+    <element type="css">#item-3 &gt; span.text</element>
+    <element type="tag">span</element>
+    <element type="class">textTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_add309">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div/div/div[4]</element>
+    <element type="css">div.col-md-7</element>
+    <element type="tag">div</element>
+    <element type="class">col-md-7TGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_lastname522">
+    <element type="xpath">//input[@id='lastName']</element>
+    <element type="id">lastNameTGWEBCOMMA1</element>
+    <element type="css">#lastName</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_lastname681">
+    <element type="xpath">//input[@id='lastName']</element>
+    <element type="id">lastNameTGWEBCOMMA1</element>
+    <element type="css">#lastName</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_lastname386">
+    <element type="xpath">//input[@id='lastName']</element>
+    <element type="id">lastNameTGWEBCOMMA1</element>
+    <element type="css">#lastName</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_firstname526">
+    <element type="xpath">//input[@id='firstName']</element>
+    <element type="id">firstNameTGWEBCOMMA1</element>
+    <element type="css">#firstName</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_lastname899">
+    <element type="xpath">//input[@id='lastName']</element>
+    <element type="id">lastNameTGWEBCOMMA1</element>
+    <element type="css">#lastName</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_nameexampl184">
+    <element type="xpath">//input[@id='userEmail']</element>
+    <element type="id">userEmailTGWEBCOMMA1</element>
+    <element type="css">#userEmail</element>
+    <element type="tag">input</element>
+    <element type="class">mr-sm-2 form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_nameexampl755">
+    <element type="xpath">//input[@id='userEmail']</element>
+    <element type="id">userEmailTGWEBCOMMA1</element>
+    <element type="css">#userEmail</element>
+    <element type="tag">input</element>
+    <element type="class">mr-sm-2 form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_age550">
+    <element type="xpath">//input[@id='age']</element>
+    <element type="id">ageTGWEBCOMMA1</element>
+    <element type="css">#age</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_age601">
+    <element type="xpath">//input[@id='age']</element>
+    <element type="id">ageTGWEBCOMMA1</element>
+    <element type="css">#age</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_nameexampl271">
+    <element type="xpath">//input[@id='userEmail']</element>
+    <element type="id">userEmailTGWEBCOMMA1</element>
+    <element type="css">#userEmail</element>
+    <element type="tag">input</element>
+    <element type="class">mr-sm-2 form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_firstname135">
+    <element type="xpath">//input[@id='firstName']</element>
+    <element type="id">firstNameTGWEBCOMMA1</element>
+    <element type="css">#firstName</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_firstname817">
+    <element type="xpath">//input[@id='firstName']</element>
+    <element type="id">firstNameTGWEBCOMMA1</element>
+    <element type="css">#firstName</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_firstname512">
+    <element type="xpath">//input[@id='firstName']</element>
+    <element type="id">firstNameTGWEBCOMMA1</element>
+    <element type="css">#firstName</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_salary933">
+    <element type="xpath">//input[@id='salary']</element>
+    <element type="id">salaryTGWEBCOMMA1</element>
+    <element type="css">#salary</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA5</element>
+  </locator>
+  <locator name="ele_firstname349">
+    <element type="xpath">//input[@id='firstName']</element>
+    <element type="id">firstNameTGWEBCOMMA1</element>
+    <element type="css">#firstName</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_salary899">
+    <element type="xpath">//input[@id='salary']</element>
+    <element type="id">salaryTGWEBCOMMA1</element>
+    <element type="css">#salary</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA5</element>
+  </locator>
+  <locator name="ele_salary765">
+    <element type="xpath">//input[@id='salary']</element>
+    <element type="id">salaryTGWEBCOMMA1</element>
+    <element type="css">#salary</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA5</element>
+  </locator>
+  <locator name="ele_salary761">
+    <element type="xpath">//input[@id='salary']</element>
+    <element type="id">salaryTGWEBCOMMA1</element>
+    <element type="css">#salary</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA5</element>
+  </locator>
+  <locator name="ele_salary045">
+    <element type="xpath">//input[@id='salary']</element>
+    <element type="id">salaryTGWEBCOMMA1</element>
+    <element type="css">#salary</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA5</element>
+  </locator>
+  <locator name="ele_salary200">
+    <element type="xpath">//input[@id='salary']</element>
+    <element type="id">salaryTGWEBCOMMA1</element>
+    <element type="css">#salary</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA5</element>
+  </locator>
+  <locator name="ele_department204">
+    <element type="xpath">//input[@id='department']</element>
+    <element type="id">departmentTGWEBCOMMA1</element>
+    <element type="css">#department</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_salary023">
+    <element type="xpath">//input[@id='salary']</element>
+    <element type="id">salaryTGWEBCOMMA1</element>
+    <element type="css">#salary</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA5</element>
+  </locator>
+  <locator name="ele_department048">
+    <element type="xpath">//input[@id='department']</element>
+    <element type="id">departmentTGWEBCOMMA1</element>
+    <element type="css">#department</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_department638">
+    <element type="xpath">//input[@id='department']</element>
+    <element type="id">departmentTGWEBCOMMA1</element>
+    <element type="css">#department</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_salary870">
+    <element type="xpath">//input[@id='salary']</element>
+    <element type="id">salaryTGWEBCOMMA1</element>
+    <element type="css">#salary</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA5</element>
+  </locator>
+  <locator name="ele_salary035">
+    <element type="xpath">//input[@id='salary']</element>
+    <element type="id">salaryTGWEBCOMMA1</element>
+    <element type="css">#salary</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA5</element>
+  </locator>
+  <locator name="ele_salary7651757530739">
+    <element type="xpath">//input[@id='salary']</element>
+    <element type="id">salaryTGWEBCOMMA1</element>
+    <element type="css">#salary</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA5</element>
+  </locator>
+  <locator name="ele_submit093">
+    <element type="xpath">//button[@id='submit']</element>
+    <element type="id">submitTGWEBCOMMA1</element>
+    <element type="css">#submit</element>
+    <element type="tag">button</element>
+    <element type="class">btn btn-primaryTGWEBCOMMA35</element>
+  </locator>
+  <locator name="ele_nameexampl573">
+    <element type="xpath">//input[@id='userEmail']</element>
+    <element type="id">userEmailTGWEBCOMMA1</element>
+    <element type="css">#userEmail</element>
+    <element type="tag">input</element>
+    <element type="class">mr-sm-2 form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_nameexampl397">
+    <element type="xpath">//input[@id='userEmail']</element>
+    <element type="id">userEmailTGWEBCOMMA1</element>
+    <element type="css">#userEmail</element>
+    <element type="tag">input</element>
+    <element type="class">mr-sm-2 form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_submit613">
+    <element type="xpath">//button[@id='submit']</element>
+    <element type="id">submitTGWEBCOMMA1</element>
+    <element type="css">#submit</element>
+    <element type="tag">button</element>
+    <element type="class">btn btn-primaryTGWEBCOMMA35</element>
+  </locator>
+  <locator name="ele_buttons920">
+    <element type="xpath">//span[normalize-space()='Buttons']</element>
+    <element type="css">#item-4 &gt; span.text</element>
+    <element type="tag">span</element>
+    <element type="class">textTGWEBCOMMA5</element>
+  </locator>
+  <locator name="ele_googleadsi917">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi535">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_doubleclic938">
+    <element type="xpath">//button[@id='doubleClickBtn']</element>
+    <element type="id">doubleClickBtnTGWEBCOMMA1</element>
+    <element type="css">#doubleClickBtn</element>
+    <element type="tag">button</element>
+    <element type="class">btn btn-primaryTGWEBCOMMA34</element>
+  </locator>
+  <locator name="ele_border1pxs263">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_rightclick944">
+    <element type="xpath">//button[@id='rightClickBtn']</element>
+    <element type="id">rightClickBtnTGWEBCOMMA1</element>
+    <element type="css">#rightClickBtn</element>
+    <element type="tag">button</element>
+    <element type="class">btn btn-primaryTGWEBCOMMA35</element>
+  </locator>
+  <locator name="ele_googleadsi864">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi489">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_brokenlink139">
+    <element type="xpath">//div[4]//div[1]//ul[1]//li[4]</element>
+    <element type="id">item-6TGWEBCOMMA1</element>
+    <element type="css">#item-6</element>
+    <element type="tag">li</element>
+    <element type="class">btn btn-light TGWEBCOMMA7</element>
+  </locator>
+  <locator name="ele_uploadandd804">
+    <element type="xpath">//span[normalize-space()='Upload and Download']</element>
+    <element type="css">#item-7 &gt; span.text</element>
+    <element type="tag">span</element>
+    <element type="class">textTGWEBCOMMA8</element>
+  </locator>
+  <locator name="ele_uploadandd935">
+    <element type="xpath">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-12 mt-4 col-md-6TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_bookstorea149">
+    <element type="xpath">//div[normalize-space()='Book Store Application']</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(6) &gt; span &gt; div &gt; divTGWEBCOMMA1</element>
+    <element type="tag">div</element>
+    <element type="class">header-textTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_uploadfile291">
+    <element type="xpath">//input[@id='uploadFile']</element>
+    <element type="id">uploadFileTGWEBCOMMA1</element>
+    <element type="css">#uploadFile</element>
+    <element type="tag">input</element>
+    <element type="class">form-control-fileTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_selectafil071">
+    <element type="xpath">//div[@id='app']//div//div//div//div//div//div//form//div</element>
+    <element type="css">div.form-file</element>
+    <element type="tag">div</element>
+    <element type="class">form-fileTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_uploadfile197">
+    <element type="xpath">//input[@id='uploadFile']</element>
+    <element type="id">uploadFileTGWEBCOMMA1</element>
+    <element type="css">#uploadFile</element>
+    <element type="tag">input</element>
+    <element type="class">form-control-fileTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_vargptadsl691">
+    <element type="xpath">//div[@id='fixedban']</element>
+    <element type="id">fixedbanTGWEBCOMMA1</element>
+    <element type="css">#fixedban</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_uploadandd408">
+    <element type="xpath">//span[normalize-space()='Upload and Download']</element>
+    <element type="css">#item-7 &gt; span.text</element>
+    <element type="tag">span</element>
+    <element type="class">textTGWEBCOMMA8</element>
+  </locator>
+  <locator name="ele_download798">
+    <element type="xpath">//a[@id='downloadButton']</element>
+    <element type="id">downloadButtonTGWEBCOMMA1</element>
+    <element type="css">#downloadButton</element>
+    <element type="partiallinktext">DownloTGWEBCOMMA0</element>
+    <element type="linktext">DownloadTGWEBCOMMA0</element>
+    <element type="tag">a</element>
+    <element type="class">btn btn-primaryTGWEBCOMMA34</element>
+  </locator>
+  <locator name="ele_uploadfile359">
+    <element type="xpath">//input[@id='uploadFile']</element>
+    <element type="id">uploadFileTGWEBCOMMA1</element>
+    <element type="css">#uploadFile</element>
+    <element type="tag">input</element>
+    <element type="class">form-control-fileTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_vargptadsl938">
+    <element type="xpath">//div[@id='fixedban']</element>
+    <element type="id">fixedbanTGWEBCOMMA1</element>
+    <element type="css">#fixedban</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_googleadsi326">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi506">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi303">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi381">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_dynamicpro154">
+    <element type="xpath">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-12 mt-4 col-md-6TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_adplusanch604">
+    <element type="xpath">//div[@id='adplus-anchor']</element>
+    <element type="id">adplus-anchorTGWEBCOMMA1</element>
+    <element type="css">#adplus-anchor</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_adplusanch391">
+    <element type="xpath">//div[@id='adplus-anchor']</element>
+    <element type="id">adplus-anchorTGWEBCOMMA1</element>
+    <element type="css">#adplus-anchor</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_adplusanch589">
+    <element type="xpath">//div[@id='adplus-anchor']</element>
+    <element type="id">adplus-anchorTGWEBCOMMA1</element>
+    <element type="css">#adplus-anchor</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_widgets538">
+    <element type="xpath">div#app &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(4) &gt; span &gt; divTGWEBCOMMA0</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(4) &gt; span &gt; divTGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">header-wrapperTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_nameemailg600">
+    <element type="xpath">//form[@id='userForm']</element>
+    <element type="id">userFormTGWEBCOMMA1</element>
+    <element type="css">#userForm</element>
+    <element type="tag">form</element>
+  </locator>
+  <locator name="ele_firstname415">
+    <element type="xpath">//input[@id='firstName']</element>
+    <element type="id">firstNameTGWEBCOMMA1</element>
+    <element type="css">#firstName</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_lastname502">
+    <element type="xpath">//input[@id='lastName']</element>
+    <element type="id">lastNameTGWEBCOMMA1</element>
+    <element type="css">#lastName</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_lastname963">
+    <element type="xpath">//input[@id='lastName']</element>
+    <element type="id">lastNameTGWEBCOMMA1</element>
+    <element type="css">#lastName</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_lastname149">
+    <element type="xpath">//input[@id='lastName']</element>
+    <element type="id">lastNameTGWEBCOMMA1</element>
+    <element type="css">#lastName</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_nameexampl404">
+    <element type="xpath">//input[@id='userEmail']</element>
+    <element type="id">userEmailTGWEBCOMMA1</element>
+    <element type="css">#userEmail</element>
+    <element type="tag">input</element>
+    <element type="class">mr-sm-2 form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_nameexampl677">
+    <element type="xpath">//input[@id='userEmail']</element>
+    <element type="id">userEmailTGWEBCOMMA1</element>
+    <element type="css">#userEmail</element>
+    <element type="tag">input</element>
+    <element type="class">mr-sm-2 form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_male870">
+    <element type="xpath">//label[@for='gender-radio-1']</element>
+    <element type="css">label.custom-control-label</element>
+    <element type="tag">label</element>
+    <element type="class">custom-control-labelTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_mobilenumb914">
+    <element type="xpath">//input[@id='userNumber']</element>
+    <element type="id">userNumberTGWEBCOMMA1</element>
+    <element type="css">#userNumber</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_mobilenumb979">
+    <element type="xpath">//input[@id='userNumber']</element>
+    <element type="id">userNumberTGWEBCOMMA1</element>
+    <element type="css">#userNumber</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_dateofbirt084">
+    <element type="xpath">//input[@id='dateOfBirthInput']</element>
+    <element type="id">dateOfBirthInputTGWEBCOMMA1</element>
+    <element type="css">#dateOfBirthInput</element>
+    <element type="tag">input</element>
+    <element type="class">form-controlTGWEBCOMMA5</element>
+  </locator>
+  <locator name="ele_div272">
+    <element type="xpath">div#fixedban &gt; div &gt; divTGWEBCOMMA1</element>
+    <element type="css">div#fixedban &gt; div &gt; divTGWEBCOMMA1</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_select503">
+    <element type="xpath">div#dateOfBirth &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; selectTGWEBCOMMA0</element>
+    <element type="css">div#dateOfBirth &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; selectTGWEBCOMMA0</element>
+    <element type="tag">select</element>
+    <element type="class">react-datepicker__year-selectTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_googleadsi850">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_select134">
+    <element type="xpath">div#dateOfBirth &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; selectTGWEBCOMMA0</element>
+    <element type="css">div#dateOfBirth &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; selectTGWEBCOMMA0</element>
+    <element type="tag">select</element>
+    <element type="class">react-datepicker__year-selectTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_googleadsi169">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi429">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_januaryfeb560">
+    <element type="xpath">div#dateOfBirth &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(2) &gt; div &gt; selectTGWEBCOMMA1</element>
+    <element type="css">div#dateOfBirth &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(2) &gt; div &gt; selectTGWEBCOMMA1</element>
+    <element type="tag">select</element>
+    <element type="class">react-datepicker__month-selectTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_div847">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div/form[@id='userForm']/div[@id='dateOfBirth-wrapper']/div[@id='dateOfBirth']/div/div[contains(@data-placement,'bottom-start')]/div/div/div/div[contains(@aria-label,'2000-01')]/div[4]</element>
+    <element type="css">div#dateOfBirth &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div:nth-of-type(3)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">react-datepicker__weekTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_subjectsin238">
+    <element type="xpath">//input[@id='subjectsInput']</element>
+    <element type="id">subjectsInputTGWEBCOMMA1</element>
+    <element type="css">#subjectsInput</element>
+    <element type="tag">input</element>
+  </locator>
+  <locator name="ele_socialstud185">
+    <element type="xpath">//div[@id='react-select-4-option-5']</element>
+    <element type="id">react-select-4-option-5TGWEBCOMMA1</element>
+    <element type="css">#react-select-4-option-5</element>
+    <element type="tag">div</element>
+    <element type="class">subjects-auto-complete__option css-yt9ioa-optionTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_googleadsi424">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi359">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi236">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi157">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi522">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi008">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi965">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi278">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_subjectsin451">
+    <element type="xpath">//input[@id='subjectsInput']</element>
+    <element type="id">subjectsInputTGWEBCOMMA1</element>
+    <element type="css">#subjectsInput</element>
+    <element type="tag">input</element>
+  </locator>
+  <locator name="ele_googleadsi271">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi502">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi579">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_currentadd755">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_googleadsi496">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_currentadd574">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_currentadd020">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_currentadd856">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_currentadd169">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_currentadd663">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_currentadd439">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_currentadd421">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_currentadd324">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_currentadd845">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_currentadd477">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_currentadd578">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_currentadd651">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_currentadd507">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_currentadd273">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_currentadd4951757531266">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_currentadd540">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_currentadd512">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_currentadd393">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_currentadd654">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_currentadd986">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_currentadd801">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_currentadd768">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_currentadd902">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_currentadd562">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_currentadd060">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_currentadd319">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_currentadd655">
+    <element type="xpath">//textarea[@id='currentAddress']</element>
+    <element type="id">currentAddressTGWEBCOMMA1</element>
+    <element type="css">#currentAddress</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-controlTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_googleadsi255">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi176">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi879">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi928">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi031">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi711">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi566">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_browserwin667">
+    <element type="xpath">//span[normalize-space()='Browser Windows']</element>
+    <element type="css">div.element-list.collapse.show &gt; ul.menu-list &gt; #item-0 &gt; span.text</element>
+    <element type="tag">span</element>
+    <element type="class">textTGWEBCOMMA11</element>
+  </locator>
+  <locator name="ele_browserwin341">
+    <element type="xpath">//span[normalize-space()='Browser Windows']</element>
+    <element type="css">div.element-list.collapse.show &gt; ul.menu-list &gt; #item-0 &gt; span.text</element>
+    <element type="tag">span</element>
+    <element type="class">textTGWEBCOMMA11</element>
+  </locator>
+  <locator name="ele_newwindow320">
+    <element type="xpath">//button[@id='windowButton']</element>
+    <element type="id">windowButtonTGWEBCOMMA1</element>
+    <element type="css">#windowButton</element>
+    <element type="tag">button</element>
+    <element type="class">mt-4 btn btn-primaryTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_newwindowm816">
+    <element type="xpath">//button[@id='messageWindowButton']</element>
+    <element type="id">messageWindowButtonTGWEBCOMMA1</element>
+    <element type="css">#messageWindowButton</element>
+    <element type="tag">button</element>
+    <element type="class">btn btn-primaryTGWEBCOMMA36</element>
+  </locator>
+  <locator name="ele_alerts785">
+    <element type="xpath">//div[4]//div[1]//ul[1]//li[4]</element>
+    <element type="id">item-1TGWEBCOMMA2</element>
+    <element type="css">div.element-list.collapse.show &gt; ul.menu-list &gt; #item-1</element>
+    <element type="tag">li</element>
+    <element type="class">btn btn-light TGWEBCOMMA12</element>
+  </locator>
+  <locator name="ele_clickme294">
+    <element type="xpath">//button[@id='confirmButton']</element>
+    <element type="id">confirmButtonTGWEBCOMMA1</element>
+    <element type="css">#confirmButton</element>
+    <element type="tag">button</element>
+    <element type="class">btn btn-primaryTGWEBCOMMA36</element>
+  </locator>
+  <locator name="ele_alertsclic738">
+    <element type="xpath">//div[@id='javascriptAlertsWrapper']</element>
+    <element type="id">javascriptAlertsWrapperTGWEBCOMMA1</element>
+    <element type="css">#javascriptAlertsWrapper</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_border1pxs484">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_div726">
+    <element type="xpath">div#fixedban &gt; div &gt; divTGWEBCOMMA1</element>
+    <element type="css">div#fixedban &gt; div &gt; divTGWEBCOMMA1</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_elementste586">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div/div[4]</element>
+    <element type="css">div.accordion</element>
+    <element type="tag">div</element>
+    <element type="class">accordionTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_thisisasam867">
+    <element type="xpath">//html</element>
+    <element type="css">html</element>
+    <element type="tag">html</element>
+  </locator>
+  <locator name="ele_frame079">
+    <element type="xpath">//iframe[@id='frame1']</element>
+    <element type="id">frame1TGWEBCOMMA1</element>
+    <element type="css">#frame1</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_thisisasam128">
+    <element type="xpath">//h1[@id='sampleHeading']</element>
+    <element type="id">sampleHeadingTGWEBCOMMA1</element>
+    <element type="css">#sampleHeading</element>
+    <element type="tag">h1</element>
+  </locator>
+  <locator name="ele_frame625">
+    <element type="xpath">//iframe[@id='frame1']</element>
+    <element type="id">frame1TGWEBCOMMA1</element>
+    <element type="css">#frame1</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_frame652">
+    <element type="xpath">//iframe[@id='frame1']</element>
+    <element type="id">frame1TGWEBCOMMA1</element>
+    <element type="css">#frame1</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_thisisasam543">
+    <element type="xpath">//html</element>
+    <element type="css">html</element>
+    <element type="tag">html</element>
+  </locator>
+  <locator name="ele_nestedfram029">
+    <element type="xpath">//span[normalize-space()='Nested Frames']</element>
+    <element type="css">div.element-list.collapse.show &gt; ul.menu-list &gt; #item-3 &gt; span.text</element>
+    <element type="tag">span</element>
+    <element type="class">textTGWEBCOMMA14</element>
+  </locator>
+  <locator name="ele_childifram896">
+    <element type="xpath">//html</element>
+    <element type="css">html</element>
+    <element type="tag">html</element>
+  </locator>
+  <locator name="ele_frame399">
+    <element type="xpath">//iframe[@id='frame1']</element>
+    <element type="id">frame1TGWEBCOMMA1</element>
+    <element type="css">#frame1</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_pchildifra544">
+    <element type="xpath">//iframe[@srcdoc='&lt;p&gt;Child Iframe&lt;/p&gt;']</element>
+    <element type="css">iframe</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_frame564">
+    <element type="xpath">//iframe[@id='frame1']</element>
+    <element type="id">frame1TGWEBCOMMA1</element>
+    <element type="css">#frame1</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_parentfram513">
+    <element type="xpath">//body</element>
+    <element type="css">body</element>
+    <element type="tag">body</element>
+  </locator>
+  <locator name="ele_frame1wrap501">
+    <element type="xpath">//div[@id='frame1Wrapper']</element>
+    <element type="id">frame1WrapperTGWEBCOMMA1</element>
+    <element type="css">#frame1Wrapper</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_childifram062">
+    <element type="xpath">//html</element>
+    <element type="css">html</element>
+    <element type="tag">html</element>
+  </locator>
+  <locator name="ele_frame579">
+    <element type="xpath">//iframe[@id='frame1']</element>
+    <element type="id">frame1TGWEBCOMMA1</element>
+    <element type="css">#frame1</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_pchildifra187">
+    <element type="xpath">//iframe[@srcdoc='&lt;p&gt;Child Iframe&lt;/p&gt;']</element>
+    <element type="css">iframe</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_frame116">
+    <element type="xpath">//iframe[@id='frame1']</element>
+    <element type="id">frame1TGWEBCOMMA1</element>
+    <element type="css">#frame1</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_pchildifra870">
+    <element type="xpath">//iframe[@srcdoc='&lt;p&gt;Child Iframe&lt;/p&gt;']</element>
+    <element type="css">iframe</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_childifram275">
+    <element type="xpath">//p[normalize-space()='Child Iframe']</element>
+    <element type="css">p</element>
+    <element type="tag">p</element>
+  </locator>
+  <locator name="ele_frame680">
+    <element type="xpath">//iframe[@id='frame1']</element>
+    <element type="id">frame1TGWEBCOMMA1</element>
+    <element type="css">#frame1</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_pchildifra781">
+    <element type="xpath">//iframe[@srcdoc='&lt;p&gt;Child Iframe&lt;/p&gt;']</element>
+    <element type="css">iframe</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_childifram386">
+    <element type="xpath">//p[normalize-space()='Child Iframe']</element>
+    <element type="css">p</element>
+    <element type="tag">p</element>
+  </locator>
+  <locator name="ele_frame294">
+    <element type="xpath">//iframe[@id='frame1']</element>
+    <element type="id">frame1TGWEBCOMMA1</element>
+    <element type="css">#frame1</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_pchildifra228">
+    <element type="xpath">//iframe[@srcdoc='&lt;p&gt;Child Iframe&lt;/p&gt;']</element>
+    <element type="css">iframe</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_childifram281">
+    <element type="xpath">//p[normalize-space()='Child Iframe']</element>
+    <element type="css">p</element>
+    <element type="tag">p</element>
+  </locator>
+  <locator name="ele_frame138">
+    <element type="xpath">//iframe[@id='frame1']</element>
+    <element type="id">frame1TGWEBCOMMA1</element>
+    <element type="css">#frame1</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_parentfram476">
+    <element type="xpath">//body</element>
+    <element type="css">body</element>
+    <element type="tag">body</element>
+  </locator>
+  <locator name="ele_parentfram164">
+    <element type="xpath">//body</element>
+    <element type="css">body</element>
+    <element type="tag">body</element>
+  </locator>
+  <locator name="ele_frame971">
+    <element type="xpath">//iframe[@id='frame1']</element>
+    <element type="id">frame1TGWEBCOMMA1</element>
+    <element type="css">#frame1</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_frame115">
+    <element type="xpath">//iframe[@id='frame1']</element>
+    <element type="id">frame1TGWEBCOMMA1</element>
+    <element type="css">#frame1</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_pchildifra356">
+    <element type="xpath">//iframe[@srcdoc='&lt;p&gt;Child Iframe&lt;/p&gt;']</element>
+    <element type="css">iframe</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_pchildifra865">
+    <element type="xpath">//iframe[@srcdoc='&lt;p&gt;Child Iframe&lt;/p&gt;']</element>
+    <element type="css">iframe</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_childifram649">
+    <element type="xpath">//html</element>
+    <element type="css">html</element>
+    <element type="tag">html</element>
+  </locator>
+  <locator name="ele_frame825">
+    <element type="xpath">//iframe[@id='frame1']</element>
+    <element type="id">frame1TGWEBCOMMA1</element>
+    <element type="css">#frame1</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_bookstorea379">
+    <element type="xpath">//div[normalize-space()='Book Store Application']</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(6) &gt; span &gt; div &gt; divTGWEBCOMMA1</element>
+    <element type="tag">div</element>
+    <element type="class">header-textTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_googleadsi426">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-1_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-1_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-1_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_smallmodal628">
+    <element type="xpath">//div[contains(@role,'dialog')]</element>
+    <element type="css">div.fade.modal.show</element>
+    <element type="tag">div</element>
+    <element type="class">fade modal showTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_largemodal399">
+    <element type="xpath">//button[@id='showLargeModal']</element>
+    <element type="id">showLargeModalTGWEBCOMMA1</element>
+    <element type="css">#showLargeModal</element>
+    <element type="tag">button</element>
+    <element type="class">mt-2 btn btn-primaryTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_loremipsum851">
+    <element type="xpath">//p[contains(text(),'Lorem Ipsum is simply dummy text of the printing a')]</element>
+    <element type="css">p</element>
+    <element type="tag">p</element>
+  </locator>
+  <locator name="ele_loremipsum151">
+    <element type="xpath">//p[contains(text(),'Lorem Ipsum is simply dummy text of the printing a')]</element>
+    <element type="css">p</element>
+    <element type="tag">p</element>
+  </locator>
+  <locator name="ele_loremipsum249">
+    <element type="xpath">html &gt; body &gt; div:nth-of-type(4) &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="css">html &gt; body &gt; div:nth-of-type(4) &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">modal-bodyTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_close143">
+    <element type="xpath">//button[@id='closeLargeModal']</element>
+    <element type="id">closeLargeModalTGWEBCOMMA1</element>
+    <element type="css">#closeLargeModal</element>
+    <element type="tag">button</element>
+    <element type="class">btn btn-primaryTGWEBCOMMA36</element>
+  </locator>
+  <locator name="ele_smallmodal037">
+    <element type="xpath">//button[@id='showSmallModal']</element>
+    <element type="id">showSmallModalTGWEBCOMMA1</element>
+    <element type="css">#showSmallModal</element>
+    <element type="tag">button</element>
+    <element type="class">mr-4 mt-2 btn btn-primaryTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_close423">
+    <element type="xpath">html &gt; body &gt; div:nth-of-type(4) &gt; div &gt; div &gt; div &gt; buttonTGWEBCOMMA1</element>
+    <element type="css">html &gt; body &gt; div:nth-of-type(4) &gt; div &gt; div &gt; div &gt; buttonTGWEBCOMMA1</element>
+    <element type="tag">button</element>
+    <element type="class">closeTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_modaldialo398">
+    <element type="xpath">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-12 mt-4 col-md-6TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_largemodal302">
+    <element type="xpath">//button[@id='showLargeModal']</element>
+    <element type="id">showLargeModalTGWEBCOMMA1</element>
+    <element type="css">#showLargeModal</element>
+    <element type="tag">button</element>
+    <element type="class">mt-2 btn btn-primaryTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_span694">
+    <element type="xpath">//span[contains(@aria-hidden,'true')]</element>
+    <element type="css">button.close &gt; span</element>
+    <element type="tag">span</element>
+  </locator>
+  <locator name="ele_loremipsum861">
+    <element type="xpath">//p[contains(text(),'Lorem Ipsum is simply dummy text of the printing a')]</element>
+    <element type="css">p</element>
+    <element type="tag">p</element>
+  </locator>
+  <locator name="ele_loremipsum195">
+    <element type="xpath">//p[contains(text(),'Lorem Ipsum is simply dummy text of the printing a')]</element>
+    <element type="css">p</element>
+    <element type="tag">p</element>
+  </locator>
+  <locator name="ele_loremipsum001">
+    <element type="xpath">//p[contains(text(),'Lorem Ipsum is simply dummy text of the printing a')]</element>
+    <element type="css">p</element>
+    <element type="tag">p</element>
+  </locator>
+  <locator name="ele_span912">
+    <element type="xpath">//span[contains(@aria-hidden,'true')]</element>
+    <element type="css">button.close &gt; span</element>
+    <element type="tag">span</element>
+  </locator>
+  <locator name="ele_vargptadsl383">
+    <element type="xpath">//div[@id='fixedban']</element>
+    <element type="id">fixedbanTGWEBCOMMA1</element>
+    <element type="css">#fixedban</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_vargptadsl543">
+    <element type="xpath">//div[@id='fixedban']</element>
+    <element type="id">fixedbanTGWEBCOMMA1</element>
+    <element type="css">#fixedban</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_adplusanch183">
+    <element type="xpath">//div[@id='adplus-anchor']</element>
+    <element type="id">adplus-anchorTGWEBCOMMA1</element>
+    <element type="css">#adplus-anchor</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_currentcol595">
+    <element type="xpath">li#item-2 &gt; svgTGWEBCOMMA4</element>
+    <element type="css">li#item-2 &gt; svgTGWEBCOMMA4</element>
+    <element type="tag">svg</element>
+  </locator>
+  <locator name="ele_googleadsi648">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_contraryto408">
+    <element type="xpath">//div[@id='section2Content']</element>
+    <element type="id">section2ContentTGWEBCOMMA1</element>
+    <element type="css">#section2Content</element>
+    <element type="tag">div</element>
+    <element type="class">card-bodyTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_interactio604">
+    <element type="xpath">//div[normalize-space()='Interactions']</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(5) &gt; span &gt; div &gt; divTGWEBCOMMA1</element>
+    <element type="tag">div</element>
+    <element type="class">header-textTGWEBCOMMA5</element>
+  </locator>
+  <locator name="ele_div280">
+    <element type="xpath">div#autoCompleteMultipleContainer &gt; div &gt; divTGWEBCOMMA1</element>
+    <element type="css">div#autoCompleteMultipleContainer &gt; div &gt; divTGWEBCOMMA1</element>
+    <element type="tag">div</element>
+    <element type="class">auto-complete__value-container auto-complete__value-container--is-multi css-1hwfws3TGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_autocomple257">
+    <element type="xpath">//input[@id='autoCompleteMultipleInput']</element>
+    <element type="id">autoCompleteMultipleInputTGWEBCOMMA1</element>
+    <element type="css">#autoCompleteMultipleInput</element>
+    <element type="tag">input</element>
+  </locator>
+  <locator name="ele_blue640">
+    <element type="xpath">//div[@id='react-select-7-option-0']</element>
+    <element type="id">react-select-7-option-0TGWEBCOMMA1</element>
+    <element type="css">#react-select-7-option-0</element>
+    <element type="tag">div</element>
+    <element type="class">auto-complete__option auto-complete__option--is-focused css-1n7v3ny-optionTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_autocomple976">
+    <element type="xpath">//input[@id='autoCompleteMultipleInput']</element>
+    <element type="id">autoCompleteMultipleInputTGWEBCOMMA1</element>
+    <element type="css">#autoCompleteMultipleInput</element>
+    <element type="tag">input</element>
+  </locator>
+  <locator name="ele_typemultip340">
+    <element type="xpath">div#autoCompleteContainer &gt; divTGWEBCOMMA1</element>
+    <element type="css">div#autoCompleteContainer &gt; divTGWEBCOMMA1</element>
+    <element type="tag">div</element>
+    <element type="class">rowTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_autocomple995">
+    <element type="xpath">//input[@id='autoCompleteMultipleInput']</element>
+    <element type="id">autoCompleteMultipleInputTGWEBCOMMA1</element>
+    <element type="css">#autoCompleteMultipleInput</element>
+    <element type="tag">input</element>
+  </locator>
+  <locator name="ele_yellow431">
+    <element type="xpath">//div[@id='react-select-7-option-0']</element>
+    <element type="id">react-select-7-option-0TGWEBCOMMA1</element>
+    <element type="css">#react-select-7-option-0</element>
+    <element type="tag">div</element>
+    <element type="class">auto-complete__option auto-complete__option--is-focused css-1n7v3ny-optionTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_typesingle978">
+    <element type="xpath">//div[@id='autoCompleteSingle']</element>
+    <element type="id">autoCompleteSingleTGWEBCOMMA1</element>
+    <element type="css">#autoCompleteSingle</element>
+    <element type="tag">div</element>
+    <element type="class">mt-4TGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_autocomple104">
+    <element type="xpath">//input[@id='autoCompleteSingleInput']</element>
+    <element type="id">autoCompleteSingleInputTGWEBCOMMA1</element>
+    <element type="css">#autoCompleteSingleInput</element>
+    <element type="tag">input</element>
+  </locator>
+  <locator name="ele_voilet831">
+    <element type="xpath">//div[@id='react-select-8-option-0']</element>
+    <element type="id">react-select-8-option-0TGWEBCOMMA1</element>
+    <element type="css">#react-select-8-option-0</element>
+    <element type="tag">div</element>
+    <element type="class">auto-complete__option auto-complete__option--is-focused css-1n7v3ny-optionTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_progressba632">
+    <element type="xpath">//div[4]//div[1]//ul[1]//li[4]</element>
+    <element type="id">item-4TGWEBCOMMA3</element>
+    <element type="css">div.element-list.collapse.show &gt; ul.menu-list &gt; #item-4</element>
+    <element type="tag">li</element>
+    <element type="class">btn btn-light TGWEBCOMMA20</element>
+  </locator>
+  <locator name="ele_dateandtim349">
+    <element type="xpath">//input[@id='dateAndTimePickerInput']</element>
+    <element type="id">dateAndTimePickerInputTGWEBCOMMA1</element>
+    <element type="css">#dateAndTimePickerInput</element>
+    <element type="tag">input</element>
+    <element type="class">react-datepicker-ignore-onclickoutsideTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_div861">
+    <element type="xpath">//div[contains(@aria-label,'Choose Monday, September 1st, 2025')]</element>
+    <element type="css">div.react-datepicker__day.react-datepicker__day--001</element>
+    <element type="tag">div</element>
+    <element type="class">react-datepicker__day react-datepicker__day--001TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_li638">
+    <element type="xpath">//li[normalize-space()='18:30']</element>
+    <element type="css">div#dateAndTimePicker &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div:nth-of-type(3) &gt; div:nth-of-type(2) &gt; div &gt; ul &gt; li:nth-of-type(75)TGWEBCOMMA0</element>
+    <element type="tag">li</element>
+    <element type="class">react-datepicker__time-list-item TGWEBCOMMA75</element>
+  </locator>
+  <locator name="ele_datepicker530">
+    <element type="xpath">//input[@id='datePickerMonthYearInput']</element>
+    <element type="id">datePickerMonthYearInputTGWEBCOMMA1</element>
+    <element type="css">#datePickerMonthYearInput</element>
+    <element type="tag">input</element>
+    <element type="class">react-datepicker-ignore-onclickoutsideTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_div748">
+    <element type="xpath">//div[contains(@aria-label,'Choose Monday, September 1st, 2025')]</element>
+    <element type="css">div.react-datepicker__day.react-datepicker__day--001</element>
+    <element type="tag">div</element>
+    <element type="class">react-datepicker__day react-datepicker__day--001TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_border1pxs662">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_range159">
+    <element type="xpath">//input[contains(@type,'range')]</element>
+    <element type="css">input.range-slider.range-slider--primary</element>
+    <element type="tag">input</element>
+    <element type="class">range-slider range-slider--primaryTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_range835">
+    <element type="xpath">//input[contains(@type,'range')]</element>
+    <element type="css">input.range-slider.range-slider--primary</element>
+    <element type="tag">input</element>
+    <element type="class">range-slider range-slider--primaryTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_range943">
+    <element type="xpath">//input[contains(@type,'range')]</element>
+    <element type="css">input.range-slider.range-slider--primary</element>
+    <element type="tag">input</element>
+    <element type="class">range-slider range-slider--primaryTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_range164">
+    <element type="xpath">//input[contains(@type,'range')]</element>
+    <element type="css">input.range-slider.range-slider--primary</element>
+    <element type="tag">input</element>
+    <element type="class">range-slider range-slider--primaryTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_range718">
+    <element type="xpath">//input[contains(@type,'range')]</element>
+    <element type="css">input.range-slider.range-slider--primary</element>
+    <element type="tag">input</element>
+    <element type="class">range-slider range-slider--primaryTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_vargptadsl106">
+    <element type="xpath">//div[@id='fixedban']</element>
+    <element type="id">fixedbanTGWEBCOMMA1</element>
+    <element type="css">#fixedban</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_vargptadsl180">
+    <element type="xpath">//div[@id='fixedban']</element>
+    <element type="id">fixedbanTGWEBCOMMA1</element>
+    <element type="css">#fixedban</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_start264">
+    <element type="xpath">//button[@id='startStopButton']</element>
+    <element type="id">startStopButtonTGWEBCOMMA1</element>
+    <element type="css">#startStopButton</element>
+    <element type="tag">button</element>
+    <element type="class">mt-3 btn btn-primaryTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_progressba979">
+    <element type="xpath">//div[@id='progressBarContainer']</element>
+    <element type="id">progressBarContainerTGWEBCOMMA1</element>
+    <element type="css">#progressBarContainer</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_div293">
+    <element type="xpath">//div[contains(@role,'progressbar')]</element>
+    <element type="css">div.progress-bar.bg-info</element>
+    <element type="tag">div</element>
+    <element type="class">progress-bar bg-infoTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_div022">
+    <element type="xpath">//div[contains(@role,'progressbar')]</element>
+    <element type="css">div.progress-bar.bg-success</element>
+    <element type="tag">div</element>
+    <element type="class">progress-bar bg-successTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_div618">
+    <element type="xpath">//div[contains(@role,'progressbar')]</element>
+    <element type="css">div.progress-bar.bg-success</element>
+    <element type="tag">div</element>
+    <element type="class">progress-bar bg-successTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_div0221757531888">
+    <element type="xpath">//div[contains(@role,'progressbar')]</element>
+    <element type="css">div.progress-bar.bg-success</element>
+    <element type="tag">div</element>
+    <element type="class">progress-bar bg-successTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_vargptadsl924">
+    <element type="xpath">//div[@id='fixedban']</element>
+    <element type="id">fixedbanTGWEBCOMMA1</element>
+    <element type="css">#fixedban</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_origin459">
+    <element type="xpath">//a[@id='demo-tab-origin']</element>
+    <element type="id">demo-tab-originTGWEBCOMMA1</element>
+    <element type="css">#demo-tab-origin</element>
+    <element type="partiallinktext">OrigTGWEBCOMMA0</element>
+    <element type="linktext">OriginTGWEBCOMMA0</element>
+    <element type="tag">a</element>
+    <element type="class">nav-item nav-linkTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_contraryto508">
+    <element type="xpath">//p[contains(text(),'Contrary to popular belief, Lorem Ipsum is not sim')]</element>
+    <element type="css">#demo-tabpane-origin &gt; p.mt-3</element>
+    <element type="tag">p</element>
+    <element type="class">mt-3TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_contraryto319">
+    <element type="xpath">//p[contains(text(),'Contrary to popular belief, Lorem Ipsum is not sim')]</element>
+    <element type="css">#demo-tabpane-origin &gt; p.mt-3</element>
+    <element type="tag">p</element>
+    <element type="class">mt-3TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_contraryto829">
+    <element type="xpath">//p[contains(text(),'Contrary to popular belief, Lorem Ipsum is not sim')]</element>
+    <element type="css">#demo-tabpane-origin &gt; p.mt-3</element>
+    <element type="tag">p</element>
+    <element type="class">mt-3TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_tabsdetail628">
+    <element type="xpath">//div[@id='tabsContainer']</element>
+    <element type="id">tabsContainerTGWEBCOMMA1</element>
+    <element type="css">#tabsContainer</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_use284">
+    <element type="xpath">//a[@id='demo-tab-use']</element>
+    <element type="id">demo-tab-useTGWEBCOMMA1</element>
+    <element type="css">#demo-tab-use</element>
+    <element type="partiallinktext">UseTGWEBCOMMA0</element>
+    <element type="linktext">UseTGWEBCOMMA0</element>
+    <element type="tag">a</element>
+    <element type="class">nav-item nav-linkTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_itisalonge467">
+    <element type="xpath">//p[contains(text(),'It is a long established fact that a reader will b')]</element>
+    <element type="css">#demo-tabpane-use &gt; p.mt-3</element>
+    <element type="tag">p</element>
+    <element type="class">mt-3TGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_itisalonge668">
+    <element type="xpath">//p[contains(text(),'It is a long established fact that a reader will b')]</element>
+    <element type="css">#demo-tabpane-use &gt; p.mt-3</element>
+    <element type="tag">p</element>
+    <element type="class">mt-3TGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_itisalonge565">
+    <element type="xpath">//p[contains(text(),'It is a long established fact that a reader will b')]</element>
+    <element type="css">#demo-tabpane-use &gt; p.mt-3</element>
+    <element type="tag">p</element>
+    <element type="class">mt-3TGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_whatorigin588">
+    <element type="xpath">//nav[contains(@role,'tablist')]</element>
+    <element type="css">nav.nav.nav-tabs</element>
+    <element type="tag">nav</element>
+    <element type="class">nav nav-tabsTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_whatorigin229">
+    <element type="xpath">//nav[contains(@role,'tablist')]</element>
+    <element type="css">nav.nav.nav-tabs</element>
+    <element type="tag">nav</element>
+    <element type="class">nav nav-tabsTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_itisalonge947">
+    <element type="xpath">//p[contains(text(),'It is a long established fact that a reader will b')]</element>
+    <element type="css">#demo-tabpane-use &gt; p.mt-3</element>
+    <element type="tag">p</element>
+    <element type="class">mt-3TGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_itisalonge856">
+    <element type="xpath">//p[contains(text(),'It is a long established fact that a reader will b')]</element>
+    <element type="css">#demo-tabpane-use &gt; p.mt-3</element>
+    <element type="tag">p</element>
+    <element type="class">mt-3TGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_itisalonge847">
+    <element type="xpath">//p[contains(text(),'It is a long established fact that a reader will b')]</element>
+    <element type="css">#demo-tabpane-use &gt; p.mt-3</element>
+    <element type="tag">p</element>
+    <element type="class">mt-3TGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_tabsdetail240">
+    <element type="xpath">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-12 mt-4 col-md-6TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_tabsdetail390">
+    <element type="xpath">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-12 mt-4 col-md-6TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_itisalonge492">
+    <element type="xpath">//p[contains(text(),'It is a long established fact that a reader will b')]</element>
+    <element type="css">#demo-tabpane-use &gt; p.mt-3</element>
+    <element type="tag">p</element>
+    <element type="class">mt-3TGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_googleadsi455">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi405">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_itisalonge902">
+    <element type="xpath">//p[contains(text(),'It is a long established fact that a reader will b')]</element>
+    <element type="css">#demo-tabpane-use &gt; p.mt-3</element>
+    <element type="tag">p</element>
+    <element type="class">mt-3TGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_googleadsi292">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi551">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_itisalonge843">
+    <element type="xpath">//p[contains(text(),'It is a long established fact that a reader will b')]</element>
+    <element type="css">#demo-tabpane-use &gt; p.mt-3</element>
+    <element type="tag">p</element>
+    <element type="class">mt-3TGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_tooltips808">
+    <element type="xpath">//div[4]//div[1]//ul[1]//li[4]</element>
+    <element type="id">item-6TGWEBCOMMA2</element>
+    <element type="css">div.element-list.collapse.show &gt; ul.menu-list &gt; #item-6</element>
+    <element type="tag">li</element>
+    <element type="class">btn btn-light TGWEBCOMMA22</element>
+  </locator>
+  <locator name="ele_border1pxs239">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_googleadsi778">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_hovermetos227">
+    <element type="xpath">//input[@id='toolTipTextField']</element>
+    <element type="id">toolTipTextFieldTGWEBCOMMA1</element>
+    <element type="css">#toolTipTextField</element>
+    <element type="tag">input</element>
+    <element type="class"> mr-sm-2 form-controlTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_googleadsi393">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_contraryto436">
+    <element type="xpath">//div[@id='texToolTopContainer']</element>
+    <element type="id">texToolTopContainerTGWEBCOMMA1</element>
+    <element type="css">#texToolTopContainer</element>
+    <element type="tag">div</element>
+    <element type="class">mt-4TGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_googleadsi654">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_menu940">
+    <element type="xpath">//div[4]//div[1]//ul[1]//li[4]</element>
+    <element type="id">item-7TGWEBCOMMA2</element>
+    <element type="css">div.element-list.collapse.show &gt; ul.menu-list &gt; #item-7</element>
+    <element type="tag">li</element>
+    <element type="class">btn btn-light TGWEBCOMMA23</element>
+  </locator>
+  <locator name="ele_div820">
+    <element type="xpath">div#fixedban &gt; div &gt; divTGWEBCOMMA1</element>
+    <element type="css">div#fixedban &gt; div &gt; divTGWEBCOMMA1</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_mainitem011">
+    <element type="xpath">//a[normalize-space()='Main Item 2']</element>
+    <element type="css">li:nth-of-type(2) &gt; a</element>
+    <element type="partiallinktext">Main ItemTGWEBCOMMA2</element>
+    <element type="linktext">Main Item 2TGWEBCOMMA0</element>
+    <element type="tag">a</element>
+  </locator>
+  <locator name="ele_mainitem754">
+    <element type="xpath">//a[normalize-space()='Main Item 2']</element>
+    <element type="css">li:nth-of-type(2) &gt; a</element>
+    <element type="partiallinktext">Main ItemTGWEBCOMMA2</element>
+    <element type="linktext">Main Item 2TGWEBCOMMA0</element>
+    <element type="tag">a</element>
+  </locator>
+  <locator name="ele_mainitem567">
+    <element type="xpath">//a[normalize-space()='Main Item 2']</element>
+    <element type="css">li:nth-of-type(2) &gt; a</element>
+    <element type="partiallinktext">Main ItemTGWEBCOMMA2</element>
+    <element type="linktext">Main Item 2TGWEBCOMMA0</element>
+    <element type="tag">a</element>
+  </locator>
+  <locator name="ele_subsubitem570">
+    <element type="xpath">//a[normalize-space()='Sub Sub Item 1']</element>
+    <element type="css">li:nth-of-type(3) &gt; ul &gt; li &gt; a</element>
+    <element type="partiallinktext">Sub Sub ItemTGWEBCOMMA1</element>
+    <element type="linktext">Sub Sub Item 1TGWEBCOMMA0</element>
+    <element type="tag">a</element>
+  </locator>
+  <locator name="ele_mainitem814">
+    <element type="xpath">//a[normalize-space()='Main Item 3']</element>
+    <element type="css">#nav &gt; li:nth-of-type(3) &gt; a</element>
+    <element type="partiallinktext">Main ItemTGWEBCOMMA2</element>
+    <element type="linktext">Main Item 3TGWEBCOMMA0</element>
+    <element type="tag">a</element>
+  </locator>
+  <locator name="ele_elementste286">
+    <element type="xpath">div#app &gt; div &gt; div &gt; div &gt; div &gt; div &gt; divTGWEBCOMMA2</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div &gt; div &gt; divTGWEBCOMMA2</element>
+    <element type="tag">div</element>
+    <element type="class">accordionTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_elementste366">
+    <element type="xpath">div#app &gt; divTGWEBCOMMA0</element>
+    <element type="css">div#app &gt; divTGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">body-heightTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_div831">
+    <element type="xpath">div#fixedban &gt; div &gt; divTGWEBCOMMA1</element>
+    <element type="css">div#fixedban &gt; div &gt; divTGWEBCOMMA1</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_div642">
+    <element type="xpath">div#fixedban &gt; div &gt; divTGWEBCOMMA1</element>
+    <element type="css">div#fixedban &gt; div &gt; divTGWEBCOMMA1</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_googleadsi812">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_redbluegre975">
+    <element type="xpath">//select[@id='oldSelectMenu']</element>
+    <element type="id">oldSelectMenuTGWEBCOMMA1</element>
+    <element type="css">#oldSelectMenu</element>
+    <element type="tag">select</element>
+  </locator>
+  <locator name="ele_standardmu576">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[1]/div[1]/div[4]</element>
+    <element type="css">div#selectMenuContainer &gt; div:nth-of-type(8) &gt; divTGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-md-6 col-sm-12TGWEBCOMMA9</element>
+  </locator>
+  <locator name="ele_standardmu672">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[1]/div[1]/div[4]</element>
+    <element type="css">div#selectMenuContainer &gt; div:nth-of-type(8) &gt; divTGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-md-6 col-sm-12TGWEBCOMMA9</element>
+  </locator>
+  <locator name="ele_standardmu006">
+    <element type="xpath">//body//div[@id='app']//div//div//div//div[1]//div[4]</element>
+    <element type="css">div#selectMenuContainer &gt; div:nth-of-type(8) &gt; divTGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-md-6 col-sm-12TGWEBCOMMA9</element>
+  </locator>
+  <locator name="ele_standardmu342">
+    <element type="xpath">//body//div[@id='app']//div//div//div//div[1]//div[4]</element>
+    <element type="css">div#selectMenuContainer &gt; div:nth-of-type(8) &gt; divTGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-md-6 col-sm-12TGWEBCOMMA9</element>
+  </locator>
+  <locator name="ele_standardmu293">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[1]/div[1]/div[4]</element>
+    <element type="css">div#selectMenuContainer &gt; div:nth-of-type(8) &gt; divTGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-md-6 col-sm-12TGWEBCOMMA9</element>
+  </locator>
+  <locator name="ele_standardmu113">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[1]/div[1]/div[4]</element>
+    <element type="css">div#selectMenuContainer &gt; div:nth-of-type(8) &gt; divTGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-md-6 col-sm-12TGWEBCOMMA9</element>
+  </locator>
+  <locator name="ele_volvosaabo637">
+    <element type="xpath">//select[@id='cars']</element>
+    <element type="id">carsTGWEBCOMMA1</element>
+    <element type="css">#cars</element>
+    <element type="tag">select</element>
+  </locator>
+  <locator name="ele_standardmu256">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[1]/div[1]/div[4]</element>
+    <element type="css">div#selectMenuContainer &gt; div:nth-of-type(8) &gt; divTGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-md-6 col-sm-12TGWEBCOMMA9</element>
+  </locator>
+  <locator name="ele_volvosaabo871">
+    <element type="xpath">//select[@id='cars']</element>
+    <element type="id">carsTGWEBCOMMA1</element>
+    <element type="css">#cars</element>
+    <element type="tag">select</element>
+  </locator>
+  <locator name="ele_standardmu494">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[1]/div[1]/div[4]</element>
+    <element type="css">div#selectMenuContainer &gt; div:nth-of-type(8) &gt; divTGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-md-6 col-sm-12TGWEBCOMMA9</element>
+  </locator>
+  <locator name="ele_volvosaabo916">
+    <element type="xpath">//select[@id='cars']</element>
+    <element type="id">carsTGWEBCOMMA1</element>
+    <element type="css">#cars</element>
+    <element type="tag">select</element>
+  </locator>
+  <locator name="ele_volvosaabo265">
+    <element type="xpath">//select[@id='cars']</element>
+    <element type="id">carsTGWEBCOMMA1</element>
+    <element type="css">#cars</element>
+    <element type="tag">select</element>
+  </locator>
+  <locator name="ele_volvosaabo281">
+    <element type="xpath">//select[@id='cars']</element>
+    <element type="id">carsTGWEBCOMMA1</element>
+    <element type="css">#cars</element>
+    <element type="tag">select</element>
+  </locator>
+  <locator name="ele_volvosaabo442">
+    <element type="xpath">//select[@id='cars']</element>
+    <element type="id">carsTGWEBCOMMA1</element>
+    <element type="css">#cars</element>
+    <element type="tag">select</element>
+  </locator>
+  <locator name="ele_standardmu048">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[1]/div[1]/div[4]</element>
+    <element type="css">div#selectMenuContainer &gt; div:nth-of-type(8) &gt; divTGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-md-6 col-sm-12TGWEBCOMMA9</element>
+  </locator>
+  <locator name="ele_volvosaabo235">
+    <element type="xpath">//select[@id='cars']</element>
+    <element type="id">carsTGWEBCOMMA1</element>
+    <element type="css">#cars</element>
+    <element type="tag">select</element>
+  </locator>
+  <locator name="ele_standardmu318">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[1]/div[1]/div[4]</element>
+    <element type="css">div#selectMenuContainer &gt; div:nth-of-type(8) &gt; divTGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-md-6 col-sm-12TGWEBCOMMA9</element>
+  </locator>
+  <locator name="ele_standardmu394">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[1]/div[1]/div[4]</element>
+    <element type="css">div#selectMenuContainer &gt; div:nth-of-type(8) &gt; divTGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-md-6 col-sm-12TGWEBCOMMA9</element>
+  </locator>
+  <locator name="ele_volvosaabo900">
+    <element type="xpath">//select[@id='cars']</element>
+    <element type="id">carsTGWEBCOMMA1</element>
+    <element type="css">#cars</element>
+    <element type="tag">select</element>
+  </locator>
+  <locator name="ele_volvosaabo870">
+    <element type="xpath">//select[@id='cars']</element>
+    <element type="id">carsTGWEBCOMMA1</element>
+    <element type="css">#cars</element>
+    <element type="tag">select</element>
+  </locator>
+  <locator name="ele_standardmu511">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[1]/div[1]/div[4]</element>
+    <element type="css">div#selectMenuContainer &gt; div:nth-of-type(8) &gt; divTGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-md-6 col-sm-12TGWEBCOMMA9</element>
+  </locator>
+  <locator name="ele_volvosaabo681">
+    <element type="xpath">//select[@id='cars']</element>
+    <element type="id">carsTGWEBCOMMA1</element>
+    <element type="css">#cars</element>
+    <element type="tag">select</element>
+  </locator>
+  <locator name="ele_standardmu144">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[1]/div[1]/div[4]</element>
+    <element type="css">div#selectMenuContainer &gt; div:nth-of-type(8) &gt; divTGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-md-6 col-sm-12TGWEBCOMMA9</element>
+  </locator>
+  <locator name="ele_volvosaabo511">
+    <element type="xpath">//select[@id='cars']</element>
+    <element type="id">carsTGWEBCOMMA1</element>
+    <element type="css">#cars</element>
+    <element type="tag">select</element>
+  </locator>
+  <locator name="ele_volvosaabo356">
+    <element type="xpath">//select[@id='cars']</element>
+    <element type="id">carsTGWEBCOMMA1</element>
+    <element type="css">#cars</element>
+    <element type="tag">select</element>
+  </locator>
+  <locator name="ele_standardmu103">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[1]/div[1]/div[4]</element>
+    <element type="css">div#selectMenuContainer &gt; div:nth-of-type(8) &gt; divTGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-md-6 col-sm-12TGWEBCOMMA9</element>
+  </locator>
+  <locator name="ele_volvosaabo420">
+    <element type="xpath">//select[@id='cars']</element>
+    <element type="id">carsTGWEBCOMMA1</element>
+    <element type="css">#cars</element>
+    <element type="tag">select</element>
+  </locator>
+  <locator name="ele_volvosaabo698">
+    <element type="xpath">//select[@id='cars']</element>
+    <element type="id">carsTGWEBCOMMA1</element>
+    <element type="css">#cars</element>
+    <element type="tag">select</element>
+  </locator>
+  <locator name="ele_standardmu632">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[1]/div[1]/div[4]</element>
+    <element type="css">div#selectMenuContainer &gt; div:nth-of-type(8) &gt; divTGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-md-6 col-sm-12TGWEBCOMMA9</element>
+  </locator>
+  <locator name="ele_volvosaabo286">
+    <element type="xpath">//select[@id='cars']</element>
+    <element type="id">carsTGWEBCOMMA1</element>
+    <element type="css">#cars</element>
+    <element type="tag">select</element>
+  </locator>
+  <locator name="ele_standardmu426">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[1]/div[1]/div[4]</element>
+    <element type="css">div#selectMenuContainer &gt; div:nth-of-type(8) &gt; divTGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-md-6 col-sm-12TGWEBCOMMA9</element>
+  </locator>
+  <locator name="ele_standardmu828">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[1]/div[1]/div[4]</element>
+    <element type="css">div#selectMenuContainer &gt; div:nth-of-type(8) &gt; divTGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-md-6 col-sm-12TGWEBCOMMA9</element>
+  </locator>
+  <locator name="ele_bookstorea045">
+    <element type="xpath">//div[normalize-space()='Book Store Application']</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(6) &gt; span &gt; div &gt; divTGWEBCOMMA1</element>
+    <element type="tag">div</element>
+    <element type="class">header-textTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_bookstorea935">
+    <element type="xpath">//div[normalize-space()='Book Store Application']</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(6) &gt; span &gt; div &gt; divTGWEBCOMMA1</element>
+    <element type="tag">div</element>
+    <element type="class">header-textTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_bookstorea529">
+    <element type="xpath">//div[normalize-space()='Book Store Application']</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(6) &gt; span &gt; div &gt; divTGWEBCOMMA1</element>
+    <element type="tag">div</element>
+    <element type="class">header-textTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_three953">
+    <element type="xpath">//div[@id='demo-tabpane-list']//div//div[contains(text(),'Three')]</element>
+    <element type="css">div#demo-tabpane-list &gt; div &gt; div:nth-of-type(3)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">list-group-item list-group-item-actionTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_four529">
+    <element type="xpath">//div[@id='demo-tabpane-list']//div//div[contains(text(),'Four')]</element>
+    <element type="css">div#demo-tabpane-list &gt; div &gt; div:nth-of-type(4)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">list-group-item list-group-item-actionTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_two308">
+    <element type="xpath">//div[@id='demo-tabpane-list']//div//div[contains(text(),'Two')]</element>
+    <element type="css">div#demo-tabpane-list &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">list-group-item list-group-item-actionTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_onetwothre805">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[@id='sortableContainer']/div/div[1]/div[1]/div[4]</element>
+    <element type="css">div.create-grid</element>
+    <element type="tag">div</element>
+    <element type="class">create-gridTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_six134">
+    <element type="xpath">//div[@id='demo-tabpane-grid']//div//div//div[contains(text(),'Six')]</element>
+    <element type="css">div#demo-tabpane-grid &gt; div &gt; div &gt; div:nth-of-type(6)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">list-group-item list-group-item-actionTGWEBCOMMA12</element>
+  </locator>
+  <locator name="ele_nine941">
+    <element type="xpath">//div[normalize-space()='Nine']</element>
+    <element type="css">div#demo-tabpane-grid &gt; div &gt; div &gt; div:nth-of-type(9)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">list-group-item list-group-item-actionTGWEBCOMMA15</element>
+  </locator>
+  <locator name="ele_four781">
+    <element type="xpath">//div[@id='demo-tabpane-grid']//div//div//div[contains(text(),'Four')]</element>
+    <element type="css">div#demo-tabpane-grid &gt; div &gt; div &gt; div:nth-of-type(4)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">list-group-item list-group-item-actionTGWEBCOMMA10</element>
+  </locator>
+  <locator name="ele_div036">
+    <element type="xpath">div#fixedban &gt; div &gt; divTGWEBCOMMA1</element>
+    <element type="css">div#fixedban &gt; div &gt; divTGWEBCOMMA1</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_googleadsi411">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi960">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi971">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_elementste025">
+    <element type="xpath">div#app &gt; div &gt; div &gt; div &gt; divTGWEBCOMMA2</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; divTGWEBCOMMA2</element>
+    <element type="tag">div</element>
+    <element type="class">col-12 mt-4  col-md-3TGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_crasjustoo072">
+    <element type="xpath">//li[normalize-space()='Cras justo odio']</element>
+    <element type="css">li.mt-2.list-group-item.list-group-item-action</element>
+    <element type="tag">li</element>
+    <element type="class">mt-2 list-group-item list-group-item-actionTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_vargptadsl807">
+    <element type="xpath">//body</element>
+    <element type="css">body</element>
+    <element type="tag">body</element>
+  </locator>
+  <locator name="ele_vargptadsl315">
+    <element type="xpath">//body</element>
+    <element type="css">body</element>
+    <element type="tag">body</element>
+  </locator>
+  <locator name="ele_crasjustoo912">
+    <element type="xpath">//li[normalize-space()='Cras justo odio']</element>
+    <element type="css">li.mt-2.list-group-item.active.list-group-item-action</element>
+    <element type="tag">li</element>
+    <element type="class">mt-2 list-group-item active list-group-item-actionTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_vargptadsl947">
+    <element type="xpath">//body</element>
+    <element type="css">body</element>
+    <element type="tag">body</element>
+  </locator>
+  <locator name="ele_googleadsi443">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_vargptadsl505">
+    <element type="xpath">//body</element>
+    <element type="css">body</element>
+    <element type="tag">body</element>
+  </locator>
+  <locator name="ele_googleadsi615">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi701">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_fourfivesi715">
+    <element type="xpath">//div[@id='row2']</element>
+    <element type="id">row2TGWEBCOMMA1</element>
+    <element type="css">#row2</element>
+    <element type="tag">div</element>
+    <element type="class">list-group list-group-horizontal-smTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_selectable381">
+    <element type="xpath">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-12 mt-4 col-md-6TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_selectable165">
+    <element type="xpath">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-12 mt-4 col-md-6TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_selectable758">
+    <element type="xpath">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-12 mt-4 col-md-6TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_googleadsi030">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi765">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_selectable754">
+    <element type="xpath">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-12 mt-4 col-md-6TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_border1pxs800">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_border1pxs645">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_selectable111">
+    <element type="xpath">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-12 mt-4 col-md-6TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_fourfivesi866">
+    <element type="xpath">//div[@id='row2']</element>
+    <element type="id">row2TGWEBCOMMA1</element>
+    <element type="css">#row2</element>
+    <element type="tag">div</element>
+    <element type="class">list-group list-group-horizontal-smTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_googleadsi202">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi220">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_border1pxs384">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_googleadsi995">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi805">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi129">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_portaaccon866">
+    <element type="xpath">//li[normalize-space()='Porta ac consectetur ac']</element>
+    <element type="css">ul#verticalListContainer &gt; li:nth-of-type(4)TGWEBCOMMA0</element>
+    <element type="tag">li</element>
+    <element type="class">mt-2 list-group-item list-group-item-actionTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_portaaccon029">
+    <element type="xpath">//li[normalize-space()='Porta ac consectetur ac']</element>
+    <element type="css">ul#verticalListContainer &gt; li:nth-of-type(4)TGWEBCOMMA0</element>
+    <element type="tag">li</element>
+    <element type="class">mt-2 list-group-item list-group-item-actionTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_seven248">
+    <element type="xpath">//li[normalize-space()='Seven']</element>
+    <element type="css">#row3 &gt; li.list-group-item.active.list-group-item-action</element>
+    <element type="tag">li</element>
+    <element type="class">list-group-item active list-group-item-actionTGWEBCOMMA11</element>
+  </locator>
+  <locator name="ele_googleadsi7011757532645">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi5791757532649">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi288">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_selectable553">
+    <element type="xpath">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-12 mt-4 col-md-6TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_selectable834">
+    <element type="xpath">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-12 mt-4 col-md-6TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_border1pxs565">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_div876">
+    <element type="xpath">div#fixedban &gt; div &gt; divTGWEBCOMMA1</element>
+    <element type="css">div#fixedban &gt; div &gt; divTGWEBCOMMA1</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_googleadsi596">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_bookstorea431">
+    <element type="xpath">//div[normalize-space()='Book Store Application']</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(6) &gt; span &gt; div &gt; divTGWEBCOMMA1</element>
+    <element type="tag">div</element>
+    <element type="class">header-textTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_border1pxs456">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_googleadsi562">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi300">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_resizable992">
+    <element type="xpath">//div[@id='resizable']</element>
+    <element type="id">resizableTGWEBCOMMA1</element>
+    <element type="css">#resizable</element>
+    <element type="tag">div</element>
+    <element type="class">box react-resizableTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_vargptadsl372">
+    <element type="xpath">//div[@id='fixedban']</element>
+    <element type="id">fixedbanTGWEBCOMMA1</element>
+    <element type="css">#fixedban</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_dragmedrop108">
+    <element type="xpath">//div[@id='simpleDropContainer']</element>
+    <element type="id">simpleDropContainerTGWEBCOMMA1</element>
+    <element type="css">#simpleDropContainer</element>
+    <element type="tag">div</element>
+    <element type="class">simple-drop-containerTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_border1pxs134">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_googleadsi795">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_border1pxs039">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_googleadsi655">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi679">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi968">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_droppables372">
+    <element type="xpath">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-12 mt-4 col-md-6TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_dragmedrop113">
+    <element type="xpath">//div[@id='simpleDropContainer']</element>
+    <element type="id">simpleDropContainerTGWEBCOMMA1</element>
+    <element type="css">#simpleDropContainer</element>
+    <element type="tag">div</element>
+    <element type="class">simple-drop-containerTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_border1pxs025">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_googleadsi961">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi545">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi735">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_border1pxs896">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_droppables107">
+    <element type="xpath">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-12 mt-4 col-md-6TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_dragmedrop922">
+    <element type="xpath">//div[@id='ppDropContainer']</element>
+    <element type="id">ppDropContainerTGWEBCOMMA1</element>
+    <element type="css">#ppDropContainer</element>
+    <element type="tag">div</element>
+    <element type="class">pp-drop-containerTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_outerdropp566">
+    <element type="xpath">//p[normalize-space()='Outer droppable']</element>
+    <element type="css">#greedyDropBox &gt; p</element>
+    <element type="tag">p</element>
+  </locator>
+  <locator name="ele_innerdropp389">
+    <element type="xpath">//div[@id='greedyDropBoxInner']</element>
+    <element type="id">greedyDropBoxInnerTGWEBCOMMA1</element>
+    <element type="css">#greedyDropBoxInner</element>
+    <element type="tag">div</element>
+    <element type="class">drop-box ui-droppableTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_innerdropp312">
+    <element type="xpath">//div[@id='greedyDropBoxInner']</element>
+    <element type="id">greedyDropBoxInnerTGWEBCOMMA1</element>
+    <element type="css">#greedyDropBoxInner</element>
+    <element type="tag">div</element>
+    <element type="class">drop-box ui-droppableTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_dropped739">
+    <element type="xpath">//div[@id='greedyDropBoxInner']</element>
+    <element type="id">greedyDropBoxInnerTGWEBCOMMA1</element>
+    <element type="css">#greedyDropBoxInner</element>
+    <element type="tag">div</element>
+    <element type="class">drop-box ui-droppable ui-state-highlightTGWEBCOMMA4</element>
+  </locator>
+  <locator name="ele_dropped918">
+    <element type="xpath">//div[@id='greedyDropBoxInner']//p[contains(text(),'Dropped!')]</element>
+    <element type="css">#greedyDropBoxInner &gt; p</element>
+    <element type="tag">p</element>
+  </locator>
+  <locator name="ele_googleadsi987">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi924">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi4111757532981">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_border1pxs812">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_border1pxs259">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_googleadsi1571757533006">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_border1pxs580">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_dragabbles734">
+    <element type="xpath">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-12 mt-4 col-md-6TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_buildplayw124">
+    <element type="xpath">//img[contains(@alt,'Build PlayWright tests with AI')]</element>
+    <element type="css">img[alt="Build PlayWright tests with AI"]</element>
+    <element type="tag">img</element>
+  </locator>
+  <locator name="ele_border1pxs876">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_border1pxs948">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_border1pxs639">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_googleadsi1761757533115">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_border1pxs791">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_dragabbles815">
+    <element type="xpath">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-12 mt-4 col-md-6TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_imcontaine186">
+    <element type="xpath">//div[@id='containmentWrapper']</element>
+    <element type="id">containmentWrapperTGWEBCOMMA1</element>
+    <element type="css">#containmentWrapper</element>
+    <element type="tag">div</element>
+    <element type="class">containment-wrapper m-4TGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_imcontaine612">
+    <element type="xpath">//div[@id='draggableExample-tabpane-containerRestriction']</element>
+    <element type="id">draggableExample-tabpane-containerRestrictionTGWEBCOMMA1</element>
+    <element type="css">#draggableExample-tabpane-containerRestriction</element>
+    <element type="tag">div</element>
+    <element type="class">fade tab-pane active showTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_googleadsi622">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-300x250-1_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-300x250-1_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-300x250-1_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi307">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi895">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi305">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_border1pxs610">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_border1pxs042">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_border1pxs457">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_border1pxs195">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_googleadsi530">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_bookstorea302">
+    <element type="xpath">//div[normalize-space()='Book Store Application']</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(6) &gt; span &gt; div &gt; divTGWEBCOMMA1</element>
+    <element type="tag">div</element>
+    <element type="class">header-textTGWEBCOMMA6</element>
+  </locator>
+  <locator name="ele_elementste370">
+    <element type="xpath">div#app &gt; div &gt; div &gt; div &gt; divTGWEBCOMMA2</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; divTGWEBCOMMA2</element>
+    <element type="tag">div</element>
+    <element type="class">col-12 mt-4  col-md-3TGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_googleadsi550">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_username576">
+    <element type="xpath">//input[@id='userName']</element>
+    <element type="id">userNameTGWEBCOMMA1</element>
+    <element type="css">#userName</element>
+    <element type="tag">input</element>
+    <element type="class">mr-sm-2 form-controlTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_password493">
+    <element type="xpath">//input[@id='password']</element>
+    <element type="id">passwordTGWEBCOMMA1</element>
+    <element type="css">#password</element>
+    <element type="tag">input</element>
+    <element type="class">mr-sm-2 form-controlTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_border1pxs110">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_password683">
+    <element type="xpath">//input[@id='password']</element>
+    <element type="id">passwordTGWEBCOMMA1</element>
+    <element type="css">#password</element>
+    <element type="tag">input</element>
+    <element type="class">mr-sm-2 form-controlTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_googleadsi4111757533437">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi9651757533446">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi914">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_border1pxs588">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_border1pxs615">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_googleadsi336">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_lastname023">
+    <element type="xpath">//input[@id='lastname']</element>
+    <element type="id">lastnameTGWEBCOMMA1</element>
+    <element type="css">#lastname</element>
+    <element type="tag">input</element>
+    <element type="class">mr-sm-2 form-controlTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_firstname331">
+    <element type="xpath">//input[@id='firstname']</element>
+    <element type="id">firstnameTGWEBCOMMA1</element>
+    <element type="css">#firstname</element>
+    <element type="tag">input</element>
+    <element type="class">mr-sm-2 form-controlTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_border1pxs374">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_firstname956">
+    <element type="xpath">//input[@id='firstname']</element>
+    <element type="id">firstnameTGWEBCOMMA1</element>
+    <element type="css">#firstname</element>
+    <element type="tag">input</element>
+    <element type="class">mr-sm-2 form-controlTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_lastname611">
+    <element type="xpath">//input[@id='lastname']</element>
+    <element type="id">lastnameTGWEBCOMMA1</element>
+    <element type="css">#lastname</element>
+    <element type="tag">input</element>
+    <element type="class">mr-sm-2 form-controlTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_googleadsi886">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_border1pxs183">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_firstname412">
+    <element type="xpath">//input[@id='firstname']</element>
+    <element type="id">firstnameTGWEBCOMMA1</element>
+    <element type="css">#firstname</element>
+    <element type="tag">input</element>
+    <element type="class">mr-sm-2 form-controlTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_lastname238">
+    <element type="xpath">//input[@id='lastname']</element>
+    <element type="id">lastnameTGWEBCOMMA1</element>
+    <element type="css">#lastname</element>
+    <element type="tag">input</element>
+    <element type="class">mr-sm-2 form-controlTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_googleadsi158">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_lastname843">
+    <element type="xpath">//input[@id='lastname']</element>
+    <element type="id">lastnameTGWEBCOMMA1</element>
+    <element type="css">#lastname</element>
+    <element type="tag">input</element>
+    <element type="class">mr-sm-2 form-controlTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_googleadsi9951757533557">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_lastname420">
+    <element type="xpath">//input[@id='lastname']</element>
+    <element type="id">lastnameTGWEBCOMMA1</element>
+    <element type="css">#lastname</element>
+    <element type="tag">input</element>
+    <element type="class">mr-sm-2 form-controlTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_registerre017">
+    <element type="xpath">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="css">div#app &gt; div &gt; div &gt; div &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">col-12 mt-4 col-md-6TGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_googleadsi270">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_username246">
+    <element type="xpath">//input[@id='userName']</element>
+    <element type="id">userNameTGWEBCOMMA1</element>
+    <element type="css">#userName</element>
+    <element type="tag">input</element>
+    <element type="class">mr-sm-2 form-controlTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_googleadsi915">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi680">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_googleadsi672">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-970x250-2_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_border1pxs974">
+    <element type="xpath">//body/div[@id='app']/div/div/div/div/div[4]</element>
+    <element type="css">div.col-12.mt-4.col-md-6 &gt; div:nth-of-type(3)</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_presentati520">
+    <element type="xpath">//body/div[@id='rc-anchor-container']/div/div/div/div/span[@id='recaptcha-anchor']/div[1]</element>
+    <element type="css">div.recaptcha-checkbox-border</element>
+    <element type="tag">div</element>
+    <element type="class">recaptcha-checkbox-borderTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_recaptcha648">
+    <element type="xpath">//iframe[contains(@title,'reCAPTCHA')]</element>
+    <element type="css">iframe[name="a-s5l92oqau489"]</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_recaptchac673">
+    <element type="xpath">//iframe[contains(@title,'recaptcha challenge expires in two minutes')]</element>
+    <element type="css">iframe[name="c-s5l92oqau489"]</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_skip177">
+    <element type="xpath">//button[@id='recaptcha-verify-button']</element>
+    <element type="id">recaptcha-verify-buttonTGWEBCOMMA1</element>
+    <element type="css">#recaptcha-verify-button</element>
+    <element type="tag">button</element>
+    <element type="class">rc-button-default goog-inline-blockTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_skip752">
+    <element type="xpath">//button[@id='recaptcha-verify-button']</element>
+    <element type="id">recaptcha-verify-buttonTGWEBCOMMA1</element>
+    <element type="css">#recaptcha-verify-button</element>
+    <element type="tag">button</element>
+    <element type="class">rc-button-default goog-inline-blockTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_recaptchac570">
+    <element type="xpath">//iframe[contains(@title,'recaptcha challenge expires in two minutes')]</element>
+    <element type="css">iframe[name="c-s5l92oqau489"]</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_recaptchac835">
+    <element type="xpath">//iframe[contains(@title,'recaptcha challenge expires in two minutes')]</element>
+    <element type="css">iframe[name="c-s5l92oqau489"]</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_skip995">
+    <element type="xpath">//button[@id='recaptcha-verify-button']</element>
+    <element type="id">recaptcha-verify-buttonTGWEBCOMMA0</element>
+    <element type="css">button#recaptcha-verify-buttonTGWEBCOMMA0</element>
+    <element type="tag">button</element>
+    <element type="class">rc-button-default goog-inline-block rc-button-default-disabledTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_width100he613">
+    <element type="xpath">//body/div/div[4]</element>
+    <element type="css">body &gt; div:nth-of-type(3) &gt; div</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_width100he220">
+    <element type="xpath">//body/div/div[4]</element>
+    <element type="css">body &gt; div:nth-of-type(3) &gt; div</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_vargptadsl700">
+    <element type="xpath">//div[@id='fixedban']</element>
+    <element type="id">fixedbanTGWEBCOMMA1</element>
+    <element type="css">#fixedban</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_googleadsi344">
+    <element type="xpath">//iframe[@id='google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0']</element>
+    <element type="id">google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA1</element>
+    <element type="css">iframe#google_ads_iframe_/21849154601,22343295815/Ad.Plus-Anchor_0TGWEBCOMMA0</element>
+    <element type="tag">iframe</element>
+  </locator>
+  <locator name="ele_select5row550">
+    <element type="xpath">//select[@aria-label='rows per page']</element>
+    <element type="css">select</element>
+    <element type="tag">select</element>
+  </locator>
+  <locator name="ele_vargptadsl102">
+    <element type="xpath">//div[@id='fixedban']</element>
+    <element type="id">fixedbanTGWEBCOMMA1</element>
+    <element type="css">#fixedban</element>
+    <element type="tag">div</element>
+  </locator>
+  <locator name="ele_asyncfunct791">
+    <element type="xpath">//html</element>
+    <element type="css">html</element>
+    <element type="tag">html</element>
+  </locator>
+  <locator name="ele_accountv1a133">
+    <element type="xpath">//body/div[@id='swagger-ui']/section/div/div/div/section/div/span/div/div/div/span/div[@id='operations-Account-AccountV1AuthorizedPost']/div/button[@aria-expanded='false']/div[1]</element>
+    <element type="css">div.opblock-summary-path-description-wrapper</element>
+    <element type="tag">div</element>
+    <element type="class">opblock-summary-path-description-wrapperTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_account966">
+    <element type="xpath">//h3[@id='operations-tag-Account']</element>
+    <element type="id">operations-tag-AccountTGWEBCOMMA1</element>
+    <element type="css">#operations-tag-Account</element>
+    <element type="tag">h3</element>
+    <element type="class">opblock-tag no-descTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_searchamaz439">
+    <element type="xpath">//input[@id='twotabsearchtextbox']</element>
+    <element type="id">twotabsearchtextboxTGWEBCOMMA1</element>
+    <element type="css">#twotabsearchtextbox</element>
+    <element type="tag">input</element>
+    <element type="class">nav-input nav-progressive-attributeTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_searchamaz325">
+    <element type="xpath">//input[@id='twotabsearchtextbox']</element>
+    <element type="id">twotabsearchtextboxTGWEBCOMMA1</element>
+    <element type="css">#twotabsearchtextbox</element>
+    <element type="tag">input</element>
+    <element type="class">nav-input nav-progressive-attributeTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_tshirtmen279">
+    <element type="xpath">//span[normalize-space()='tshirt men']</element>
+    <element type="css">span.s-heavy</element>
+    <element type="tag">span</element>
+    <element type="class">s-heavyTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_xl522">
+    <element type="xpath">//button[@id='a-autoid-77-announce']</element>
+    <element type="id">a-autoid-77-announceTGWEBCOMMA1</element>
+    <element type="css">#a-autoid-77-announce</element>
+    <element type="tag">button</element>
+    <element type="class">a-button-text a-text-centerTGWEBCOMMA79</element>
+  </locator>
+  <locator name="ele_p36rangesl496">
+    <element type="xpath">//input[@id='p_36/range-slider_slider-item_upper-bound-slider']</element>
+    <element type="id">p_36/range-slider_slider-item_upper-bound-sliderTGWEBCOMMA1</element>
+    <element type="css">input#p_36/range-slider_slider-item_upper-bound-sliderTGWEBCOMMA0</element>
+    <element type="tag">input</element>
+    <element type="class">s-range-inputTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_go221">
+    <element type="xpath">//body/div/div/div/div/div/div/span[@data-component-type='s-filters-panel-view']/div/span[@data-action='s-filter-menu']/div/div/div[@role='group']/div/div/div/form[@method='get']/div[1]</element>
+    <element type="css">div#p_36/range-slider &gt; form &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="tag">div</element>
+    <element type="class">a-section a-spacing-mini sf-range-slider-rowTGWEBCOMMA1320</element>
+  </locator>
+  <locator name="ele_httpsmmedi578">
+    <element type="xpath">//img[@alt="Sponsored Ad - Men's Polo Neck Tshirt"]</element>
+    <element type="css">div#78c43e2e-27f4-4c50-a52a-a44786cdef79 &gt; div &gt; div &gt; div &gt; div &gt; span &gt; div &gt; div &gt; div &gt; div &gt; span &gt; a &gt; div &gt; imgTGWEBCOMMA0</element>
+    <element type="tag">img</element>
+    <element type="class">s-imageTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_httpsmmedi288">
+    <element type="xpath">//img[@alt="Sponsored Ad - Men's Polo Neck Tshirt"]</element>
+    <element type="css">div#78c43e2e-27f4-4c50-a52a-a44786cdef79 &gt; div &gt; div &gt; div &gt; div &gt; span &gt; div &gt; div &gt; div &gt; div &gt; span &gt; a &gt; div &gt; imgTGWEBCOMMA0</element>
+    <element type="tag">img</element>
+    <element type="class">s-imageTGWEBCOMMA3</element>
+  </locator>
+</locators>
